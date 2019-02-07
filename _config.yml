@@ -1,0 +1,63 @@
+# Site setings
+name: 'Tran Kim Tung'
+description: ''
+meta_description: ''
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: 
+production_url: https://trankimtung.com/
+disqus: 
+mailchimp_url: ''
+cover_image: bc_1.jpg
+ga_analytics: 
+
+
+# Author
+author:
+  name: 'Tran Kim Tung'
+  image: 'avatar.jpg'
+  greetings: "Tran Kim Tung"
+  description: "Software engineer, speaker and enthusiast photographer from Vietnam. Nice to see you around!"
+  bio: ''
+
+# Contact form setings
+email: contact@trankimtung.com
+contact_page_description: ""
+thankyou_page_description: ""
+
+# Social links
+medium: '@trankimtung'
+instagram: 'trankimtungxd'
+twitter: 'trankimtungxd'
+facebook: 
+github: 'trankimtung'
+codepen: 
+dribbble: 
+pinterest: 
+linkedin: 
+producthunt: 
+
+# Navigation
+navigation:
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
