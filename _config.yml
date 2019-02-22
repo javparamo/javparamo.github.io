@@ -1,5 +1,5 @@
 # Site setings
-name: 'Tran Kim Tung'
+name: 'Javier Páramo'
 description: ''
 meta_description: ''
 logo: 'assets/images/logo.png'
@@ -15,9 +15,9 @@ ga_analytics: UA-134158130-1
 # Author
 author:
   name: 'Tran Kim Tung'
-  image: 'avatar.jpg'
+  image: 'https://scontent-atl3-1.cdninstagram.com/vp/47b7b84c24c40f6497f8dd310b9c3ad6/5D1E6D65/t51.2885-19/39301484_2214133461961549_2025694498792669184_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com'
   greetings: "Tran Kim Tung"
-  description: "Software engineer, speaker and enthusiast photographer from Vietnam. Nice to see you around!"
+  description: "Architecture engineer, natural leader, "
   bio: ''
 
 # Contact form setings
