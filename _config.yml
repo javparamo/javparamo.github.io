@@ -5,7 +5,7 @@ meta_description: ''
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
-production_url: https://trankimtung.com/
+production_url: https://javierparamo.me/
 disqus: 
 mailchimp_url: ''
 cover_image: bc_1.jpg
@@ -17,20 +17,20 @@ author:
   name: 'Javier Páramo'
   image: 'avatar.jpg'
   greetings: "Javier Páramo"
-  description: "Architecture engineer, natural leader, "
+  description: "Architecture engineer, passionate urbanist, and "
   bio: ''
 
 # Contact form setings
-email: contact@trankimtung.com
+email: david@davidomar.me
 contact_page_description: ""
 thankyou_page_description: ""
 
 # Social links
-medium: '@trankimtung'
-instagram: 'trankimtungxd'
-twitter: 'trankimtungxd'
-facebook: 
-github: 'trankimtung'
+medium: 
+instagram: 'jav_paramo'
+twitter: 'javierparamo'
+facebook: 'javierparamo'
+github: 
 codepen: 
 dribbble: 
 pinterest: 
